@@ -1,6 +1,6 @@
 package com.example.confirmemailregistration.security.service.implementation;
 
-import com.example.confirmemailregistration.controller.request.Email;
+import com.example.confirmemailregistration.security.controller.request.Email;
 import com.example.confirmemailregistration.security.controller.request.AuthenticationRequest;
 import com.example.confirmemailregistration.security.controller.request.RegisterRequest;
 import com.example.confirmemailregistration.security.controller.response.AuthenticationResponse;

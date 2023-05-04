@@ -1,4 +1,4 @@
-package com.example.confirmemailregistration.controller.request;
+package com.example.confirmemailregistration.security.controller.request;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

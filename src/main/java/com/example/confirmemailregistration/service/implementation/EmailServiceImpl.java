@@ -1,7 +1,7 @@
 package com.example.confirmemailregistration.service.implementation;
 
 import com.example.confirmemailregistration.config.EmailSenderSettings;
-import com.example.confirmemailregistration.controller.request.Email;
+import com.example.confirmemailregistration.security.controller.request.Email;
 import com.example.confirmemailregistration.service.EmailService;
 import com.example.confirmemailregistration.utils.EmailUtil;
 import lombok.RequiredArgsConstructor;
